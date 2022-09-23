@@ -1,0 +1,7 @@
+ DAY  :  DATE  :	DEPARTURE  :  ARRIVAL  :  TIME  :  PRICE
+
+Sunday	:  July 27, 2022  :  Karachi  :  Canada  : Serene :  5:00am  :  100000;
+Monday	:  July 28, 2022  :  Islamabad	:  Tokyo  : Airblue : 3:00am  : 150000 ;
+Monday	:  July 28, 2022  :  Karachi  :  Austrailia  : Airblue : 11:00pm  :  200000;
+Tuesday	 :	July 29, 2022  :  lahore  :  Dubai  : PIA : 6:00pm  :  80000;
+Monday  :  July 28, 2022  :  Islamabad	:  Paris  : Serene : 8:00am  :  300000;

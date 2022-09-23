@@ -1,0 +1,7 @@
+ DAY  : DATE  : DEPARTURE  : ARRIVAL  : TIME  : TICKET COST
+		  													
+Sunday  :  July 27, 2022  :  Karachi  :  Lahore  : PIA : 9:00pm  :  10000;
+Monday  :  July 28, 2022  :  Islamabad  :  Karachi  : Jinnah : 10:00pm  :  20000;
+Monday  :  July 28, 2022  :  Karachi  :  Islamabad  :  Serene : 11:00am  :  20000;
+Tuesday  :  July 29, 2022	:  lahore  :  Karachi  :  PIA : 5:00pm  :  10000;
+Monday  :  July 28, 2022  :  Islamabad  :  Lahore	 : PIA :  6:00am  :  15000;
