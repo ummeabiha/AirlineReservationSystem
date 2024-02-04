@@ -32,6 +32,24 @@ After providing the necessary information, users can proceed to specify their fl
 
 - **File I/O Handling:** Manages user and flight reservation data through C++ file I/O operations.
 
+## Preview:
+
+### HOMEPAGE:
+![Screenshot (846)](https://user-images.githubusercontent.com/98107411/193609413-3a0f620e-4c6e-405f-9b62-7b5f3a26ca85.png)
+
+### USER PREFERENCES:
+![Screenshot (850)](https://user-images.githubusercontent.com/98107411/193620635-eca37322-f111-47da-8cc0-f24f18849ec6.png)
+
+### USER DETAILS:
+![Screenshot (854)](https://user-images.githubusercontent.com/98107411/193620727-348d6de1-fcf1-4d1b-aa38-f05fc1b4168f.png)
+
+### TICKET GENERATION:
+![Screenshot (855)](https://user-images.githubusercontent.com/98107411/193620976-0faeb0d4-f511-471e-8811-bca82de24dee.png)
+
+### CANCEL TICKETS:
+![Screenshot (856)](https://user-images.githubusercontent.com/98107411/193621025-0c5fbb6a-67ce-46af-adca-7d653c530367.png)
+
+
 ## Getting Started
 
 To run the Airline Reservation System on your local machine:
