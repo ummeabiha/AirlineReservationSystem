@@ -2,7 +2,7 @@
 
 ## Programming Language
 
-The project is developed using the C++ programming language, incorporating the principles of object-oriented programming. The graphical user interface is implemented with C++ CLR Windows Form in Visual Studio, utilizing the .NET Framework. Additionally, the application manages user and flight reservation data through C++ file I/O handling.
+The project is developed using the C++ programming language, incorporating the principles of object-oriented programming. The graphical user interface is implemented with WinForms, utilizing the .NET Framework. Additionally, the application manages user and flight reservation data through file I/O handling.
 
 ## Project Description
 
@@ -26,11 +26,9 @@ After providing the necessary information, users can proceed to specify their fl
 
 - **C++:** Core logic and functionality of the Airline Reservation System are implemented in C++.
 
-- **C++ CLR Windows Form:** Utilized for creating the graphical user interface in Visual Studio.
+- **Windows Form:** Utilized for creating the graphical user interface in Visual Studio.
 
-- **.NET Framework:** Provides the infrastructure for C++ CLR Windows Form application development.
-
-- **File I/O Handling:** Manages user and flight reservation data through C++ file I/O operations.
+- **File I/O Handling:** Manages user and flight reservation data through file I/O operations.
 
 ## Preview:
 
